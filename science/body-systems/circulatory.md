@@ -15,6 +15,7 @@ ___
 | Both Spread Blood | Pulimonary system only goes to lungs|
 | Get Blood From Heart | The systemic system has much more parts covered|
 
+___
 ### Valves of The heart
 - Controls Flow of blood by opening and closing
 - Allows blood to flow in one direction
@@ -26,11 +27,11 @@ ___
 | Push Blood| Pull Blood|
 | Blue| Red|
 | carrys Oxygen & nutrients | Carries Carbon and Waste |
-
 ### Capillaries
 - Tiny Blood Vessels connecting arteries and veins
 - O₂ delivered
 - CO₂ and waste is picked up
+___
 ### Diseases
 - ***Atherosclerosis*** - hardening of arteries due to plaque
 - ***Myocardial infarction*** (heart attack) - Blockage of blood flow
