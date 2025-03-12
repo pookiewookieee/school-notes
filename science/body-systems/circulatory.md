@@ -25,7 +25,7 @@ ___
 | Arteries | Veins |
 | -------- | --------- |
 | Push Blood| Pull Blood|
-| Blue| Red|
+| Red | Blue |
 | carrys Oxygen & nutrients | Carries Carbon and Waste |
 ### Capillaries
 - Tiny Blood Vessels connecting arteries and veins
