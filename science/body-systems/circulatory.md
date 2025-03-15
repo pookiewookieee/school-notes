@@ -62,8 +62,8 @@ Plasma is a yellowish fluid that include
 
 | Cell Type | Function | Time Alive |
 | --- |---| --- |
-| Red Blood Cells | Transmitting Oxyen throughout the body | 4 months |
-| Hemoglobin | asdfd |  |
+| Red Blood Cells | Transmitting Oxgen throughout the body | 4 months |
+| Hemoglobin | colors blood, helps red blood cells |  |
 | White Blood Cells | sadf | Varies Based on which one|
 | Platelets | asdf | 9 days|
 
