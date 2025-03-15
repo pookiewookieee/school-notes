@@ -39,4 +39,22 @@ ___
 - ***Prolapsed valves*** - causes backwards flow of blood
 - ***Arrhythmia*** - abnormal heart rate
 - ***High Blood Pressure*** - makes the heart work harder
+___
+## Parts of Blood 
 
+### Blood Is made up of
+- Plasma
+- White Blood Cells
+- Platets
+- Red Blood Cells
+### Plasma
+Plasma is a yellowish fluid that include
+- nutrients
+- hormones
+- proteins
+- waste products
+### Spreading Out
+- Arteries
+    - Oxygenated Blood and Nutrients
+- Veins
+    - Deoxygenated Blood and Waste
