@@ -66,3 +66,5 @@ Plasma is a yellowish fluid that include
 | Hemoglobin | colors blood, helps red blood cells | 4 months | key part of the immune system | marrow |
 | White Blood Cells | fight germs, make antibodies | Varies Based on which one| protein that carries oxygen | marrow, spleen, thymus, and lymph nodes |
 | Platelets | work with proteins to fix broken blood vesels | 9 days | oval shaped ***cells*** also called thrombocytes | Bone Marrow| 
+
+
