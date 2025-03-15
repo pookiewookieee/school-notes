@@ -49,7 +49,7 @@ ___
 - Red Blood Cells
 ### Plasma
 Plasma is a yellowish fluid that include
-- nutrients
+- nutrientThese cells are shaped like slightly indented, flattened diskss
 - hormones
 - proteins
 - waste products
@@ -60,11 +60,9 @@ Plasma is a yellowish fluid that include
     - Deoxygenated Blood and Waste
 ### Cell Funcitons
 
-| Cell Type | Function | Time Alive |
-| --- |---| --- |
-| Red Blood Cells | Transmitting Oxgen throughout the body | 4 months |
-| Hemoglobin | colors blood, helps red blood cells | 4 months |
-| White Blood Cells | fight germs, make antibodies | Varies Based on which one|
-| Platelets | work with proteins to fix broken blood vesels | 9 days|
-
-### 
+| Cell Type | Function | Time Alive | Description | Made By |
+| --- |---| --- | --- | --- |
+| Red Blood Cells | Transmitting Oxgen throughout the body | 4 months | slightly indented, flattened disks | marrow |
+| Hemoglobin | colors blood, helps red blood cells | 4 months | key part of the immune system | marrow |
+| White Blood Cells | fight germs, make antibodies | Varies Based on which one| protein that carries oxygen | marrow, spleen, thymus, and lymph nodes |
+| Platelets | work with proteins to fix broken blood vesels | 9 days | oval shaped ***cells*** also called thrombocytes | Bone Marrow| 
