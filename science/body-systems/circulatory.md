@@ -27,6 +27,7 @@ ___
 | Push Blood| Pull Blood|
 | Red | Blue |
 | carrys Oxygen & nutrients | Carries Carbon and Waste |
+
 ### Capillaries
 - Tiny Blood Vessels connecting arteries and veins
 - O₂ delivered
