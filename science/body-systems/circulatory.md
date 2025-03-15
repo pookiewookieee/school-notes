@@ -1,5 +1,6 @@
-# Circulatory System
-___
+Circulatory System
+===
+
 ### Sub-systems in circulatory system 
 - Pulmonary circulation
     - The Interchange of blood, oxygen, and nutrients between the lungs and heart
@@ -23,8 +24,8 @@ ___
 ### Arteries vs Veins
 
 | Arteries | Veins |
-| -------- | --------- |
-| Push Blood| Pull Blood|
+| -------- | --------|
+| Push Blood| Pull Blood |
 | Red | Blue |
 | carrys Oxygen & nutrients | Carries Carbon and Waste |
 
@@ -39,7 +40,6 @@ ___
 - ***Prolapsed valves*** - causes backwards flow of blood
 - ***Arrhythmia*** - abnormal heart rate
 - ***High Blood Pressure*** - makes the heart work harder
-___
 ## Parts of Blood 
 
 ### Blood Is made up of
@@ -58,3 +58,13 @@ Plasma is a yellowish fluid that include
     - Oxygenated Blood and Nutrients
 - Veins
     - Deoxygenated Blood and Waste
+### Cell Funcitons
+
+| Cell Type | Function | Time Alive |
+| --- |---| --- |
+| Red Blood Cells | Transmitting Oxyen throughout the body | 4 months |
+| Hemoglobin | asdfd |  |
+| White Blood Cells | sadf | Varies Based on which one|
+| Platelets | asdf | 9 days|
+
+### 
