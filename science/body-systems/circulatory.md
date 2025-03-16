@@ -48,8 +48,8 @@ ___
 - Platets
 - Red Blood Cells
 ### Plasma
-Plasma is a yellowish fluid that include
-- nutrientThese cells are shaped like slightly indented, flattened diskss
+Plasma is a yellowish fluid that includes
+- nutrients
 - hormones
 - proteins
 - waste products
